@@ -1,6 +1,7 @@
 # DSP Learn
 
 This is a very simple collection of jupyter notebooks documenting my journey of learning digital signal processing.
+The content here is mostly me following [PySDR](https://www.pysdr.org/content/frequency_domain#fft-sizing).
 
 ## Jupyter Setup
 
